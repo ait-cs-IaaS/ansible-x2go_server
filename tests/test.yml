@@ -2,4 +2,4 @@
 - hosts: localhost
   remote_user: root
   roles:
-    - x2go-server
+    - x2go_server

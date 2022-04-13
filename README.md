@@ -1,9 +1,7 @@
-x2go-server
-=========
+# Ansible Role x2go-server
 
 Installs x2go server software for mate desktops.
 
-License
--------
+## License
 
-MIT
+GPL-3.0
